@@ -1,26 +1,24 @@
 # 🎶 a4tunados-test-project
 
-Projeto fullstack desenvolvido como parte do desafio técnico da empresa **a4tunados**.
+Plataforma de aulas online para professores de música, desenvolvida como parte do desafio técnico da empresa **a4tunados**.
 
-## 🧠 Descrição
+Professores podem cadastrar aulas em vídeo de forma privada, enquanto alunos têm acesso apenas aos vídeos dos seus professores. O foco é em um MVP funcional e enxuto.
 
-Plataforma de aulas em vídeo para professores de música. Professores podem cadastrar aulas privadas, e alunos têm acesso restrito ao conteúdo. Foco em um MVP funcional e simples.
+---
 
 ## 📁 Estrutura do Projeto
 
-- [`frontend`](./frontend): Interface com Next.js
-- [`backend`](./backend): API e autenticação com Django + PostgreSQL
+Este repositório agrupa dois subprojetos:
 
-## 🚀 Tecnologias
+- [`frontend`](./frontend) – Aplicação em Next.js
+- [`backend`](./backend) – API com Django + PostgreSQL
 
-- Next.js
-- Django + Django REST Framework
-- PostgreSQL
+---
 
-## 📦 Instalação
+## 🧩 Clonando o Projeto com Submódulos
 
-Cada subprojeto possui seu próprio README com instruções. Para clonar com subrepos:
+Para clonar o projeto corretamente com os submódulos, use:
 
 ```bash
-git clone https://github.com/seu-usuario/a4tunados-test-project.git
+git clone --recurse-submodules https://github.com/seu-usuario/a4tunados-test-project.git
 cd a4tunados-test-project
