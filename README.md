@@ -10,8 +10,8 @@ Professores podem cadastrar aulas em vídeo de forma privada, enquanto alunos t�
 
 Este repositório agrupa dois subprojetos:
 
-- [`frontend`](./frontend) – Aplicação em Next.js
-- [`backend`](./backend) – API com Django + PostgreSQL
+- [`frontend`](https://github.com/JxVtrl/a4tunados-test-frontend) – Aplicação em Next.js
+- [`backend`](https://github.com/JxVtrl/a4tunados-test-backend) – API com Django + PostgreSQL
 
 ---
 
@@ -19,11 +19,11 @@ Este repositório agrupa dois subprojetos:
 
 ### 🔧 Backend (Django)
 
-Veja as instruções detalhadas em [`backend/README.md`](./backend/README.md).
+Veja as instruções detalhadas em [`backend/README.md`](https://github.com/JxVtrl/a4tunados-test-backend/blob/dev/README.md).
 
 ### 💻 Frontend (Next.js)
 
-Veja as instruções detalhadas em [`frontend/README.md`](./frontend/README.md).
+Veja as instruções detalhadas em [`frontend/README.md`](https://github.com/JxVtrl/a4tunados-test-frontend/blob/dev/README.md).
 
 ---
 
